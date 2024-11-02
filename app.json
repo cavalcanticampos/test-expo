@@ -31,6 +31,12 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a584e1b8-6236-4ce7-836c-155b34e4d61c"
+      }
+    },
+    "owner": "rroberto.campos"
   }
 }
